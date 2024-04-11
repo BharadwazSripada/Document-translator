@@ -1,0 +1,7 @@
+google-trans-new
+streamlit
+gtts
+mtranslate
+pyautogui
+openpyxl
+python-docx
